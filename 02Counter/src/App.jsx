@@ -8,7 +8,17 @@ function App() {
   
   function IncValue(){
     if(counter <= 19){
-      setCounter(++counter)
+      // setCounter(++counter)
+
+      // setCounter(counter + 1 )
+      // setCounter(counter + 1 )
+      // setCounter(counter + 1 )
+      // setCounter(counter + 1 )
+
+      // setCounter(prevCounter => prevCounter + 1 )
+      // setCounter(prevCounter => prevCounter + 1 )
+      // setCounter(prevCounter => prevCounter + 1 )
+      // setCounter(prevCounter => prevCounter + 1 )
     }
   }
 
