@@ -1,3 +1,0 @@
-# youtube-frontend
-
-Learning React
